@@ -1,0 +1,47 @@
+Voor een schoolopdracht heb ik een phishing-website gemaakt die lijkt op de inlogpagina van Roblox. Hier leg ik uit hoe ik de site heb nagebouwd en geef ik tips om phishing te herkennen en te voorkomen.
+
+Hoe heb ik de website gemaakt?
+HTML en CSS Gebruikt
+Ik heb de opmaak en stijl van de echte Roblox-pagina nagemaakt met HTML en CSS. Hierdoor ziet mijn nep-pagina er bijna precies hetzelfde uit.
+
+Afbeeldingen en Logo's
+Ik heb de logo’s en plaatjes van de officiële Roblox-pagina gebruikt, zodat de site herkenbaar lijkt.
+
+Een Neppe URL
+De website heeft een URL die erg lijkt op de echte, bijvoorbeeld www.roblox-game-login.com. Dit kan mensen misleiden.
+
+Inlogformulier
+De site heeft een inlogformulier dat werkt zoals de echte, maar de gegevens worden naar mijn nep-systeem gestuurd.
+=========
+Hoe laat je de site echt lijken?
+Veiligheidsicoon (https)
+Ik heb een certificaat toegevoegd zodat er een slotje in de adresbalk staat. Dit laat het lijken alsof de site veilig is.
+
+Foutmeldingen
+Als je een nep-gebruikersnaam invoert, krijg je een foutmelding, net als bij de echte website.
+
+Geschikt voor Telefoon en Computer
+De site werkt op alle apparaten, zoals mobiel en laptop.
+==========
+Hoe herken je een phishing-website?
+Check de URL
+Kijk goed naar de website-naam. Nep-sites hebben vaak een klein verschil, zoals een extra letter of andere domeinnaam (.net in plaats van .com).
+
+Pas op voor verdachte e-mails
+Klik niet zomaar op links in e-mails, vooral niet als ze om je wachtwoord vragen.
+
+Https is niet altijd veilig
+Een slotje in de adresbalk betekent niet altijd dat een site echt is. Kijk altijd naar de URL.
+
+Let op fouten
+Nep-websites hebben vaak kleine fouten in de tekst of lay-out.
+
+Gebruik een wachtwoordmanager
+Een wachtwoordmanager kan je waarschuwen als je op een nep-website probeert in te loggen.
+============
+Hoe kun je jezelf beschermen?
+Twee-factor-authenticatie (2FA)
+Zet 2FA aan als dat kan. Dit geeft extra beveiliging, zelfs als je wachtwoord wordt gestolen.
+
+Blijf voorzichtig
+Als iets niet klopt, log dan niet in. Ga naar de officiële website door zelf het adres in te typen.

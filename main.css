@@ -1,0 +1,96 @@
+body{
+    font-family: sans-serif;
+    background-color: #232527;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #191B1D;
+    width: 100%;
+    height: 5.5vh;
+    padding-top: 1vh;
+}
+
+.navbar-container{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    padding: 0 1rem;
+}
+
+.navbar-container a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.navbar-container a:hover{
+    border-bottom: 1px solid white;
+}
+
+
+.navbar-container input{
+    background-color: #0A0B0C;
+    color: white;
+    width: 50vh;
+    font-size: 1rem;
+    height: 3.5vh;
+    border: 1px solid #393B3D;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.navbar-container button{
+    background-color: #00B06F;
+    color: white;
+    font-weight: bold;
+    width: 10vh;
+    height: 4vh;
+    font-size: 1rem;
+    border: 0;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+.login-container{
+    margin-top: 10vh;
+}
+
+.login-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    color: white;
+    margin: 0 auto;
+    background-color: #393B3D;
+    width: 55vh;
+    height: 60vh;
+}
+
+.login-box input{
+    width: 45vh;
+    height: 3vh;
+    padding: 0.5rem;
+    font-size: 1rem;
+    background-color: #111212;
+    border: 1px solid #393B3D;
+    border-radius: 10px;
+}
+
+.login-box a{
+    color: white;
+    text-decoration: none;
+}
+.login-box a:hover{
+    border-bottom: 1px solid white;
+}
+
+.login-box button{
+    color: white;
+    font-weight: bold;
+    
+}
+
